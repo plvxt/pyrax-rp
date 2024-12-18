@@ -1,11 +1,4 @@
-# Minecraft Bedrock The Hive Scoreboard @MehdiArc - Color : Blue
+# PyraX.pro Resource Pack
 
-[The Hive Edited ]() !
-
-  > <b>Picture</b><br><br>
-
-  ![](image/image.png)
-
-• Publishing without obtaining permission from the prosecutor's manufacturer 
-
-``©`` **MehdiArc**
+ **This resource pack includes:**
+ - Scoreboard UI

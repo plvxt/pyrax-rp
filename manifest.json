@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§l§b Hive Edited For AloneVictor ",
-        "name": "§c GITHUB :  @ItzGladiator ¦ Hive Ui",
-        "uuid": "0e2d603a-3783-4261-a414-1bacb4d9dc58",
+        "description": "pyrax.pro",
+        "name": "PyraX UI ResourcePack",
+        "uuid": "641b0f04-125b-4dd3-b6a5-bd8799277f71",
         "version": [1, 0, 0],
         "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
-            "description": "§l§b Hive Edited For AloneVictor ",
+            "description": "pyrax.pro",
             "type": "resources",
-            "uuid": "4328151d-377a-42e3-b28c-c3be53b3c8bd",
+            "uuid": "de759dd2-918e-4aee-8ae4-ebee5ce0df25",
             "version": [1, 0, 0]
         }
     ]
