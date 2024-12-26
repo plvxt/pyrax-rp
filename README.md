@@ -2,3 +2,4 @@
 
  **This resource pack includes:**
  - Scoreboard UI
+ - Unicodes
